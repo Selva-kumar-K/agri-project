@@ -1,16 +1,20 @@
+import blog1 from "../assets/blog1.png";
+import blog2 from "../assets/blog2.png";
+import blog3 from "../assets/blog3.png";
+
 export const blogData = [
   {
-    userImg: "src/assets/blog1.png",
+    userImg: blog1,
     username: "Selvakumar",
     content: "Soil testing made easy to farm now-a-days.",
   },
   {
-    userImg: "src/assets/blog2.png",
+    userImg: blog2,
     username: "Nithish",
     content: "Soil testing made easy to farm now-a-days.",
   },
   {
-    userImg: "src/assets/blog3.png",
+    userImg: blog3,
     username: "Anirudh",
     content: "Soil testing made easy to farm now-a-days.",
   },
