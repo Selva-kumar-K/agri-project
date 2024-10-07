@@ -1,4 +1,4 @@
-import { useEffect, useState } from "react";
+import { useState } from "react";
 import { lists } from "../utils/list";
 
 export default function SearchComponent() {
